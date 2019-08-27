@@ -8,7 +8,6 @@
 
 ## 用法
 
-![screenshot1](https://github.com/MasouShizuka/dmhy-downloader/blob/master/screenshot/01.jpg)
 
 ### 按照注释填好运行即可
 
