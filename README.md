@@ -9,9 +9,7 @@
 
 ## 用法
 
-```
-![screenshot1](https://github.com/MasouShizuka/dmhy-downloader/blob/master/screenshot/screenshot%2001.jpg)
-```
+![screenshot 01](https://github.com/MasouShizuka/dmhy-downloader/blob/master/screenshot/screenshot%2001.jpg)
 
 打开工程中的settings.py，按照注释填好，然后再运行main.py即可
 
