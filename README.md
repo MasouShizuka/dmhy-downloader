@@ -9,8 +9,6 @@
 
 ## 用法
 
-![screenshot 01](https://github.com/MasouShizuka/dmhy-downloader/blob/master/screenshot/screenshot%2001.jpg)
-
 打开工程中的`settings.py`，按照注释填好，然后再运行`main.py`即可
 
 #### 例如
